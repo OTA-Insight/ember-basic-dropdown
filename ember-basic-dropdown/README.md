@@ -1,3 +1,11 @@
+# Changes by Lighthouse
+
+This fork is used by Lighthouse where the following changes have been made:
+
+| PR                                                        | Short Description                                  |
+| --------------------------------------------------------- |--------------------------------------------------- |
+| https://github.com/cibernox/ember-basic-dropdown/pull/927 | Fix dropdown not correctly positioned horizontally when body position is relative. This has been merged but not deployed to a version yet, hence why we still maintain this fork. |
+
 # Ember-basic-dropdown
 
 [![Build Status](https://github.com/cibernox/ember-basic-dropdown/actions/workflows/ci.yml/badge.svg?branch=master)](https://travis-ci.org/cibernox/ember-basic-dropdown)
